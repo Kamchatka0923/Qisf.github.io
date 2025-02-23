@@ -33,13 +33,13 @@ Journals & Patents
 
 [6] Guo W, Ji C, Qi S, et al. Preliminary performance analysis of tightly-coupled 5G/PPP positioning based on different 5G observations[J]. IEEE Transactions on Instrumentation and Measurement, 2025.
 
-[6] 郭文飞,齐书峰,邓玥,等.融合TOA/AOD的5G/SINS紧组合导航定位算法分析[J].测绘学报,2023,52(03):367-374.
+[7] 郭文飞,齐书峰,邓玥,等.融合TOA/AOD的5G/SINS紧组合导航定位算法分析[J].测绘学报,2023,52(03):367-374.
 
-[7] 罗亚荣,郭文飞,齐书峰,等.不变RTS平滑算法及其在5G/SINS组合导航中的应用研究[J].武汉大学学报(信息科学版),2024,49(05):747-755.DOI:10.13203/j.whugis20210587.
+[8] 罗亚荣,郭文飞,齐书峰,等.不变RTS平滑算法及其在5G/SINS组合导航中的应用研究[J].武汉大学学报(信息科学版),2024,49(05):747-755.DOI:10.13203/j.whugis20210587.
 
-[8] 一种全星座多频北斗数据的实时动动定位方法及系统.2022
+[9] 一种全星座多频北斗数据的实时动动定位方法及系统.2022
 
-[9] 一种基于GNSS双天线的车辆三轴定姿方法.2024
+[10] 一种基于GNSS双天线的车辆三轴定姿方法.2024
 
-[10] 一种基于5G信号的非差逐级载波相位定位方法.2024
+[11] 一种基于5G信号的非差逐级载波相位定位方法.2024
 
